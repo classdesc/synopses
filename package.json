@@ -36,7 +36,7 @@
     "core-js": "2.5.6",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
-    "express-jwt": "^5.3.0",
+    "express-jwt": "^8.4.1",
     "fuse.js": "^3.2.0",
     "http2": "3.3.7",
     "isbndbjs": "^1.0.2",
